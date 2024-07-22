@@ -1,0 +1,86 @@
+/* styles.css */
+.root {
+    -fx-background-color: #F0F0F0;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #056087;
+    -fx-text-fill:"white"
+}
+
+TextField, PasswordField{
+    -fx-text-fill:"blue";
+    -fx-font-size:18px;
+    -fx-background-color:#97f7d6;
+    -fx-border-color:"blue";
+    -fx-border-weight:5px;
+}
+
+TableView{
+    -fx-font-size:18px;
+}
+
+#logout{
+    -fx-font-size: 14px;
+    -fx-background-color: #6ff2d8;
+    -fx-text-fill:"blue"
+
+}
+
+ChoiceBox{
+   -fx-background-color: #4cedb5;
+   -fx-text-fill:"yellow";
+   -fx-font-size:20px;
+   -fx-font-weight:bold;
+   -fx-pref-height: 30px;
+}
+
+.tbl{
+     -fx-text-fill:"red";
+     -fx-font-size:13px;
+     -fx-background-color:"yellow";
+}
+
+.table-view .column-header-background{
+    -fx-background-color: linear-gradient(to bottom, #1dbbdd44, #93f9b944);
+    -fx-background-radius: 7px 7px 0px 0px;
+    -fx-background-insets: 0 11px 0 0;
+    -fx-padding: 0 0 5px 0;
+}
+
+.table-view .table-cell{
+    -fx-border-color: transparent;
+    -fx-padding: 2 0 2 10px;
+}
+.table-row-cell: hover {
+    -fx-background-color: #93f9b911;
+    -fx-text-background-color: blue;
+}
+.table-row-cell: odd{
+    -fx-background-color: #93f9b911;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+.table-row-cell: even{
+    -fx-background-color: #1dbbdd11;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+.table-row-cell: highlighted {
+    -fx-background-color: #81c483;
+    -fx-background-radius: 15px;
+}
+.table-view {
+	-fx-text-fill: #fffafa;
+    -fx-border-color: #414042;
+    -fx-border-weight: 2px;
+}
+
+.table-view:filled:selected:focused {
+	-fx-background-color: yellow;
+    -fx-border-color: #f8c27f;
+    -fx-border-weight: 5px;
+}
+
+
