@@ -7,4 +7,4 @@ There is one src/main folder which contains all the Program code and resources r
 
 And the path to browse through the folders to find the Java-Program files is: 
 
-src(Source-folder)>main>java>project>in>myjavafx>JavaProgramCodeFiles
+src(Source-folder)/main>java>project>in>myjavafx>JavaProgramCodeFiles
