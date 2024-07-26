@@ -16,5 +16,6 @@ So it also has a file named Application Demo which is a zip file and after downl
 It also has some of the zip files as well as some folders which contain mp4 videos in which i have explained the CODE of this Project in Order Wise(Part-wise).
 So totally there are 5 Code Explanation Folders > and there are total 8 Parts of this explanatory videos.
 
+Also the videos have been explained briefly and in a very short way.
 
 
